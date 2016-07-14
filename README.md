@@ -1,2 +1,6 @@
-# hello-world
-This is my first repository and my fist time on github so i'm just testing my first repository. Watch out for my next git import
+# Introduction To Java Programming 
+
+With reference to the Lighted Code Blog Tutorials this is a simple Maths program which aids in Subraction of Numbers. The program has can be seen as a quiz which displays ten differnt qestions each requiring an answer from the user. At the end of the program it tells you how many questions you answered correctly and the time spent answering the questions  
+
+The Lighted Code
+https://lightedcode.wordpress.com
